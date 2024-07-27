@@ -1,4 +1,7 @@
 from turtle import*
-circle(180)
+circle(100)
 exitonclick()
+
+
+
 
